@@ -1,1 +1,3 @@
 # LoginAnalytics
+
+This paper discusses the importance of passwords as a security measure, the limited understanding of user behavior related to password submissions, the use of a tool called Gossamer to observe login requests securely, and a research project's intent to replicate experiments and gather data to improve security mechanisms. The project involves gathering login information using a system hosted on Heroku and recruiting participants from friends and Amazon MTurk, with expectations of encountering inorganic results, prompting the formulation of data predictions. This was a final group project for Computer Security. 
